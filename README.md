@@ -1,4 +1,4 @@
-# Self-Explainable Temporal Graph Networks based on Graph Information Bottleneck.
+# Self-Explainable Temporal Graph Networks based on Graph Information Bottleneck
 
 The official source code for Self-Explainable Temporal Graph Networks based on Graph Information Bottleneck.
  
