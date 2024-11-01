@@ -1,6 +1,6 @@
 # Self-Explainable Temporal Graph Networks based on Graph Information Bottleneck
 
-The official source code for Self-Explainable Temporal Graph Networks based on Graph Information Bottleneck.
+The official source code for [KDD24] Self-Explainable Temporal Graph Networks based on Graph Information Bottleneck.
  
 Overview of Self-Explainable Temporal Graph Networks based on Graph Information Bottleneck.
 ![architecture2_page-0001](./architecture.PNG)
