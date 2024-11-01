@@ -2,7 +2,7 @@
 
 The official source code for Self-Explainable Temporal Graph Networks based on Graph Information Bottleneck.
  
-Overview of Interpretable Prototype-based Graph Information Bottleneck.
+Overview of Self-Explainable Temporal Graph Networks based on Graph Information Bottleneck.
 ![architecture2_page-0001](./architecture.PNG)
 
 Temporal Graph Neural Networks (TGNN) have the ability to capture both the graph topology and dynamic dependencies of interactions within a graph over time. There has been a growing need to explain the predictions of TGNN models due to the difficulty in identifying how past events influence their predictions. Since the explanation model for a static graph cannot be readily applied to temporal graphs due to its inability to capture temporal dependencies, recent studies proposed explanation models for temporal graphs. However, existing explanation models for temporal graphs rely on post-hoc explanations, requiring separate models for prediction and explanation, which is limited in two aspects: efficiency and accuracy of explanation. In this work, we propose a novel built-in explanation framework for temporal graphs, called Self-Explainable
